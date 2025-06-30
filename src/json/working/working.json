@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "title": "Keyword Research",
+    "description": "We pinpoint and leverage the most impactful terms, aligning your content seamlessly.",
+    "background": "color",
+    "backgroundColor": "#ffefcf"
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "title": "Fast Ranking",
+    "description": "We secure high-quality backlinks, boosting your site's credibility and contributing.",
+    "background": "image",
+    "backgroundImage": "../../assets/images/process/process-circle.png"
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "title": "Keyword Research",
+    "description": "Our goal is clear - secure top rankings. Through meticulous optimization.",
+    "background": "color",
+    "backgroundColor": "#e6f8e8"
+  }
+]

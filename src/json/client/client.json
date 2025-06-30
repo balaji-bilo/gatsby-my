@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Soheel Sheek,",
+        "role":"Marketing Director",
+        "text": "As a marketing professional, I appreciate the data driven approach this  agency brings to the table. Transparent  reporting, effective strategies.",
+        "image":"../../assets/images/testimonial/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Moeen Khan,",
+          "role":"Startup Founder",
+        "text": "In the early stages of our startup, visibility was key. This SEO agency not  only delivered on that front but also provided strategic guidance.",
+         "image":"../../assets/images/testimonial/2.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Increase Traffic",
+    "description": "We analyze your business goal, target audience, and market trends.",
+    "image": "../../assets/images/features/1.png"
+  },
+  {
+    "id": 2,
+    "title": "Improve Ranking",
+    "description": "We analyze your business goal, target audience, and market trends.",
+    "image": "../../assets/images/features/2.png"
+  },
+  {
+    "id": 3,
+    "title": "Sustainable Growth",
+    "description": "We analyze your business goal, target audience, and market trends.",
+    "image": "../../assets/images/features/3.png"
+  },
+  {
+    "id": 4,
+    "title": "Targeted Audience",
+    "description": "We analyze your business goal, target audience, and market trends.",
+    "image": "../../assets/images/features/4.png"
+  }
+]

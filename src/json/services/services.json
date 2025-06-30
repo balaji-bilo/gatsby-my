@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Strategy Development",
+    "description": "Quality backlinks are essential for a robust SEO strategy. We implement effective link-building techniques to enhance speed.",
+    "image": "../../assets/images/service/1.png"
+  },
+  {
+    "id": 2,
+    "title": "Local SEO Optimization",
+    "description": "This includes optimizing Google My Business profiles, local citations, and creating a strong online presence within your community.",
+    "image": "../../assets/images/service/2.png"
+  },
+  {
+    "id": 3,
+    "title": "On-Page Optimization",
+    "description": "Optimizing your website's on-page elements is crucial for search engine visibility. We fine-tune meta tags, headings.",
+    "image": "../../assets/images/service/3.png"
+  },
+  {
+    "id": 4,
+    "title": "SEO Consultation and Training",
+    "description": "We provide consultation services and training sessions to ensure your team understands the importance of SEO and can contribute to the ongoing success.",
+    "image": "../../assets/images/service/4.png"
+  },
+  {
+    "id": 5,
+    "title": "Technical SEO Audits",
+    "description": "Our team conducts comprehensive technical SEO audits to identify and resolve issues that may hinder your website's performance.",
+    "image": "../../assets/images/service/5.png"
+  },
+  {
+    "id": 6,
+    "title": "Keyword Research",
+    "description": "Our expert team conducts in-depth keyword research to identify the most relevant and high-performing keywords for your business.",
+    "image": "../../assets/images/service/6.png"
+  }
+]
