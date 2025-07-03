@@ -155,7 +155,7 @@ a {
 }
 
 .hero-bg {
-  position: absolute;
+  position: absolute !important;
   right: -10px;
   bottom: 0;
   z-index: 0;
@@ -168,7 +168,7 @@ a {
 }
 
 .banner-section .kit1 {
-  position: absolute;
+  position: absolute !important;
   top: 120px;
   left: 120px;
 }

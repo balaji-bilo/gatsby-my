@@ -12,22 +12,25 @@ const AboutUs = () => {
               src="../../assets/images/about/1.png"
               alt="about"
               placeholder="blurred"
-              layout="fixed"
+              layout="constrained"
               // className="w-full h-[200px] object-cover"
             />
 
-            <StaticImage
-              src="../../assets/images/about/kit1.png"
-              alt="about"
-              placeholder="blurred"
-              className="kit1"
-              
-            />
+            <div className="kit1">
+              <StaticImage
+                src="../../assets/images/about/kit1.png"
+                alt="about"
+                placeholder="blurred"
+                layout="constrained"
+              />
+            </div>
+
             <StaticImage
               src="../../assets/images/about/shape.png"
               alt="about"
               placeholder="blurred"
               className="shape1"
+           
             />
           </Col>
 
@@ -66,7 +69,8 @@ const AboutUs = () => {
                 <div className="">
                   <h3>Dedicated Expert Team</h3>
                   <p>
-                   Empower your success with our dedicated expert team, committed to navigating the complexities of SEO.
+                    Empower your success with our dedicated expert team,
+                    committed to navigating the complexities of SEO.
                   </p>
                 </div>
               </li>
@@ -80,7 +84,8 @@ const AboutUs = () => {
                 <div className="">
                   <h3>24/7 Customer Support</h3>
                   <p>
-                   Experience peace of mind with our 24/7 customer support, ensuring prompt assistance and personalized service.
+                    Experience peace of mind with our 24/7 customer support,
+                    ensuring prompt assistance and personalized service.
                   </p>
                 </div>
               </li>
